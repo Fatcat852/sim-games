@@ -1,0 +1,13 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 52: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    l "Oh fiddlesticks!! I can't believe someone so magnificent, such as yourself could be feeling /"down in the dumps."
+                                                                                                     ^
+        Oh, what a horrible thing it is indeed. I reckon I could cheer you right up.
+        How 'bout it, would you like to go on a date with me?"
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Nov  4 17:34:47 2019
